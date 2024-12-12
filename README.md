@@ -1,4 +1,4 @@
-# STUDENT MANAGEMENT SYSTEM  
+# A BASIC & SIMPLE STUDENT MANAGEMENT SYSTEM  
 ## Tech Stack Used:  
 - React Js , You can start you react journey [here](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)  
 - Node Js, Let's get started with node [here](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)  
